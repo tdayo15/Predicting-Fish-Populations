@@ -1,4 +1,5 @@
 # 🐟 Predicting Fish Populations: A Data-Driven Approach to Sustainable Harvesting
+## Contributers: Therese Dao & Kristina Nguyen
 
 📖 Overview
 
